@@ -75,7 +75,7 @@ FarmArt is a platform designed to bridge the gap between farmers and consumers, 
 
 ## Contact
 
-- **Email**: nlv.madhav@example.com
+- **Email**: nlvmadhav@example.com
 - **GitHub**: [https://github.com/nlvmadhav](https://github.com/nlvmadhav)
 
 
